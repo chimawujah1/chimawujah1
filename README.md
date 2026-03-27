@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chima! Passionate Cyber Security Analyst</h1>
+<h1>Hi, I'm Chima! Passionate Cybersecurity Analyst</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
