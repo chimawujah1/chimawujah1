@@ -1,9 +1,11 @@
-<h1>Hi, I'm Chima! </h1>
+<h1>Hi, I'm Chima! Passionate Cyber Security Analyst</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
+<b>Azure / Cloud Cybersecurity Projects</b>
   - [Active Directory Home Lab](https://github.com/joshcybertest/LABURL)
   - [Hello World!](https://github.com/joshcybertest/LABURL)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/chimawujah1/Cloud-SOC)
     
 <h2>🧾Certifications </h2>
 
